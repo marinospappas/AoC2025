@@ -1,0 +1,6 @@
+logging:
+  level:
+    org.springframework.web: DEBUG
+
+input:
+  filename.pattern: src/main/resources/inputdata/input
